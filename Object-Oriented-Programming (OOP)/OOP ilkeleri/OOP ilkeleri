@@ -1,0 +1,41 @@
+JavaScript`te nesne yönelimli programlama (OOP) ilkeleri, programlama uygulamalarini organize etmek, kodun daha modüler, 
+yeniden kullanilabilir ve sürdürülebilir olmasini sağlamak için kullanilir. İşte JavaScript`te OOP`nin temel ilkeleri:
+
+
+1- Encapsulation (Kapsülleme):
+
+Kapsülleme, bir nesnenin iç durumunun (alanlari) ve davranişlarinin (metotlari) diğer nesnelerden gizlenmesini sağlar. 
+Yani, bir nesnenin iç yapisi, diş dünyaya karşi korunur ve sadece belirli bir arayüz araciliğiyla erişilebilir hale gelir. 
+Bu, nesnenin iç yapisinin değişmesi durumunda diş dünyadaki kodlari etkilememesini sağlar.
+
+
+
+2- Inheritance (Kalitim):
+
+Kalitim, bir sinifin özelliklerini ve metotlarini başka bir siniftan devralmasini sağlar. 
+Yani, var olan bir sinifin özelliklerini ve davranişlarini yeni bir sinifa aktarmak mümkündür. 
+Bu sayede kod tekrarindan kaçinilir ve kodun daha organize olmasi sağlanir.
+
+
+
+3- Polymorphism (Çok Biçimlilik):
+
+Polimorfizm, ayni isme sahip ancak farkli davranişlara sahip olan metotlarin kullanilmasini ifade eder. 
+Yani, ayni isme sahip bir metot, farkli siniflar tarafindan farkli şekillerde uygulanabilir. 
+Bu, farkli nesnelerin ayni arayüzü kullanarak farkli işlemler gerçekleştirebilmesini sağlar.
+
+
+
+4- Abstraction (Soyutlama):
+
+Soyutlama, bir nesnenin önemli özelliklerinin vurgulanip diğer detaylarin gizlenmesini ifade eder. 
+Yani, bir nesne sadece gerekli olan bilgileri ve davranişlari sunar ve gereksiz karmaşikliklar gizlenir. 
+Bu, kodun daha anlaşilir ve yeniden kullanilabilir olmasini sağlar.
+
+
+
+-Not
+
+JavaScript`te bu OOP ilkelerini uygulamak için class anahtar kelimesi, prototipler, 
+fonksiyonlar ve diğer nesne yönelimli programlama özellikleri kullanilir. 
+Bu sayede JavaScript kodlari daha yapilandirilmiş, esnek ve bakimi kolay hale gelir.
